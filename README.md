@@ -11,7 +11,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=👋aSsaLaMuaLaiiQum👋;+WeLcome;+আমার+প্রোফাইলে+ঘুরতে+আসার+জন্য+ধন্যবাদ;+I+M+NOT+FAKE;+IT's+BRAND😻;+IT'S+NOT+JUST+A+NAME😍)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=👋aSsaLaMuaLaiiQum👋;+WeLcome;+আমার+প্রোফাইলে+ঘুরতে;+আসার+জন্য+ধন্যবাদ;+I+M+ARIF+HASNAIN;+IT's+BRAND😻;+IT'S+NOT+JUST+A+NAME😍)](https://git.io/typing-svg)
  
 </p>
  
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 ![Visitor Count](https://profile-counter.glitch.me/TOXIC-VAU/count.svg)
 
-- [![Profile views](https://gpvc.arturio.dev/T0XIC-CYBER)
+- ![Profile views](https://gpvc.arturio.dev/T0XIC-CYBER)
 - [![GitHub followers](https://img.shields.io/github/followers/T0XIC-CYBER.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/T0XIC-CYBER?tab=followers)
 
 ![Alt text](https://camo.githubusercontent.com/bdc2bf0e7c954ae3cecff56b9712a4411a87c014780b8de8ee050f4f6a3c7b55/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174736170702d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070)
@@ -62,14 +62,9 @@ Here are some ideas to get you started:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=T0XIC-CYBER&theme=merko)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TOXIC-VAU=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AriFTheLegend&layout=compact&theme=chartreuse-dark" />
-
 > CONTACT WITH ME :
 
 <p align="left">
-
 
 <p align="center">
 <a href="https://grabify.link/SLCVU3"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
