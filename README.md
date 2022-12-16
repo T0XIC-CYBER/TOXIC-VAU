@@ -11,7 +11,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+M+NOT+FAKE;+IT's+BRAND😻;+IT'S+NOT+JUST+A+NAME😍)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=👋aSsaLaMuaLaiiQum👋;+WeLcome;+আমার+প্রোফাইলে+ঘুরতে+আসার+জন্য+ধন্যবাদ;+I+M+NOT+FAKE;+IT's+BRAND😻;+IT'S+NOT+JUST+A+NAME😍)](https://git.io/typing-svg)
  
 </p>
  
@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 
 ![Visitor Count](https://profile-counter.glitch.me/TOXIC-VAU/count.svg)
 
-- ![Profile views](https://gpvc.arturio.dev/TOXIC-VAU)
-- [![GitHub followers](https://img.shields.io/github/followers/TOXIC-VAU.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/T0XIC-CYBER?tab=followers)
+- [![Profile views](https://gpvc.arturio.dev/T0XIC-CYBER)
+- [![GitHub followers](https://img.shields.io/github/followers/T0XIC-CYBER.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/T0XIC-CYBER?tab=followers)
 
 ![Alt text](https://camo.githubusercontent.com/bdc2bf0e7c954ae3cecff56b9712a4411a87c014780b8de8ee050f4f6a3c7b55/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174736170702d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070)
 
@@ -77,13 +77,9 @@ Here are some ideas to get you started:
 <a href="https://wa.me/+8801612406988"><img title="whatsapp" src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <a href="https://www.instagram.com/mohammad_arif_hasnain/"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.instamojo.com/@deepanshunarwal/"><img title="DONATE" src="https://img.shields.io/badge/DONATE-lightgrey?style=for-the-badge&logo=Google-pay"></a>
-
+<a href="https://www.youtube.com/channel/UCZZqPRa6GkB4prE3pgynW5w?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://github.com/sponsors/DenverCoder1"><img alt="Sponsor with Github" title="Sponsor with Github" src="https://img.shields.io/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-</p>
-  <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://github.com/sponsors/DenverCoder1"><img alt="Sponsor with Github" title="Sponsor with Github" src="https://img.shields.io/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-![](https://img.shields.io/badge/<T0XIC-CYBER>-<T0XIC-CYBER>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 <img src="https://github.com/Voyz/voyz_public/blob/master/databay_promo_vidA_gif_A03.gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"/>
 
