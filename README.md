@@ -11,7 +11,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I'M NOT FAKE ;+IT's+BRAND😻;+IT'S+NOT+JUST+A+NAME😍)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+M+NOT+FAKE;+IT's+BRAND😻;+IT'S+NOT+JUST+A+NAME😍)](https://git.io/typing-svg)
  
 </p>
  
@@ -71,12 +71,14 @@ Here are some ideas to get you started:
 <p align="left">
 
 
-<a href="https://www.facebook.com/bap.dakbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="TOXIC-VAU.6" height="30" width="40" /></a>
+<p align="center">
+<a href="https://grabify.link/SLCVU3"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<a href="https://www.facebook.com/ArifHasNaiN.official"><img title="Facebook" src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=Facebook"></a>
+<a href="https://wa.me/+8801612406988"><img title="whatsapp" src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://www.instagram.com/mohammad_arif_hasnain/"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.instamojo.com/@deepanshunarwal/"><img title="DONATE" src="https://img.shields.io/badge/DONATE-lightgrey?style=for-the-badge&logo=Google-pay"></a>
 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/T0XIC-CYBER) <a href="https://github.com/T0XIC-CYBER"></a>
-
+</p>
 </p>
   <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://github.com/sponsors/DenverCoder1"><img alt="Sponsor with Github" title="Sponsor with Github" src="https://img.shields.io/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=github&logoColor=white"/></a>
